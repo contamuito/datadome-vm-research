@@ -1,0 +1,13 @@
+/**
+ * Decompiled Function: fn_009
+ * Entry: L_652c | Exit: L_6566
+ * Captures: []
+ * Strings: []
+ */
+function fn_009(local_0, local_1, local_2, local_3, local_4, local_5, local_6, local_7, local_8, local_9, local_10) {
+
+
+  // Label L_652c:
+  return (undefined + (undefined % undefined));
+  return undefined;
+}
